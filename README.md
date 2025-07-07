@@ -17,4 +17,4 @@
 
 网站还提供个性化推荐功能，根据你的观看历史推荐更多相关视频，让你轻松发现新的影片。用户可以在每个影片下发表评论和评分，分享自己的观影体验，帮助其他用户选择最佳影片。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/met20250707/met7 ）</span>
